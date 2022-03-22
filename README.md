@@ -6,7 +6,6 @@ This is a solution to the [Calculator app challenge on Frontend Mentor]
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,10 +23,6 @@ Users should be able to:
 - Perform mathmatical operations like addition, subtraction, multiplication, and division
 - Adjust the color theme based on their preference
 
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
