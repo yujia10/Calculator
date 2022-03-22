@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(0, 0%, 90%);
+    color: hsl(60, 10%, 19%);
+    
+  }
+
+  .toggle-button {
+    background-color: hsl(0, 5%, 81%);     
+  }
+
+  .toggle-button:before {
+    background-color: hsl(25, 98%, 40%);
+  }
+
+  .screen {
+    background-color: hsl(0, 0%, 93%);
+  }
+
+  .keypad {
+    background-color: hsl(0, 5%, 81%);
+  }
+
+  .key {
+    background-color: hsl(45, 7%, 89%);
+    box-shadow: 0 3px hsl(35, 11%, 61%);
+    
+  }
+  .text {
+    background-color: hsl(185, 42%, 37%);
+    box-shadow: 0 3px hsl(185, 58%, 25%);
+    color: white;
+  }
+  .equal-sign {
+    background-color: hsl(25, 98%, 40%);
+    box-shadow: 0 3px hsl(25, 99%, 27%);
+    color: white;
+  }
